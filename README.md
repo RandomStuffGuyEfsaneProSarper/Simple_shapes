@@ -1,7 +1,5 @@
 # Simple_shapes
 
-to add the library to your python libraries on Windows, make you sure you have Python idle downloaded first or I think there is also a way you can put libraries if you using visual studio but I'll show Idle for this one. So, first of all, click Windows+R and then click on the input box and write AppData and after that click on Local, and then Programs, then Python, then Python311, and finally click on Libs and put the file in there. Hope this helped!
-
 square shape function : square(size,x,y) size changes it's size basically, x is the x coordinate, y is the y coordinate 
 
 square shape but you can choose the color function : squareColor(size,x,y,color1,color2) size changes it's size basically, x is the x coordinate, y is the y coordinate, color1 is the outline, color2 is the inside.
